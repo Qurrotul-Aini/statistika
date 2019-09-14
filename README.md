@@ -1,2 +1,0 @@
-# statistika
-statistika
